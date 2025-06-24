@@ -1,1 +1,1 @@
-This repository contains a solution to the 'Store Sales - Time Series Forecasting' competition hosted on Kaggle. It is joint work with [@yonatansha].
+This repository contains a solution to the 'Store Sales - Time Series Forecasting' competition hosted on Kaggle (see https://www.kaggle.com/competitions/store-sales-time-series-forecasting for details). It is joint work with [@yonatansha].
